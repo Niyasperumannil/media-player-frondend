@@ -3,7 +3,6 @@ import { Link } from "react-router-dom"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faHouse } from "@fortawesome/free-solid-svg-icons/faHouse"
 import { faTrashCan } from "@fortawesome/free-solid-svg-icons"
-import { Table } from "react-bootstrap"
 import Button from "react-bootstrap/Button"
 import { deleteHistoryVideoApi, getAllvideohistoryApi } from "../services/allAPI"
 

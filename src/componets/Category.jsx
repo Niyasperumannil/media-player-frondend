@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Button, Modal } from "react-bootstrap";
 import { useState } from "react";
 import Vediocard from "./Vediocard";
-import Allvideo from "./Allvideo";
 import { addCategoryApi, addVideoToCategoryApi, deleteCategoryApi, getAllCategoryApi } from "../services/allAPI";
 import { toast } from "react-toastify";
 

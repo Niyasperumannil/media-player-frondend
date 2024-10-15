@@ -1,1 +1,1 @@
-export const serverUrl = 'https://media-player-server-ngfu.onrender.com/'
+export const serverUrl = 'https://media-player-server-ngfu.onrender.com'
